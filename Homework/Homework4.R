@@ -1,13 +1,6 @@
 #Author: Eddie Polanco
 #Homework 4
 #
-
-
-
-
-
-
-
   # 1. Using the tidyverse read in the wine dataset that can be downloaded from our Github repo. Read in the file and remove the X1 column again.
   # 
   # https://github.com/JackStat/PracticalDataScience/blob/master/data/winemag-data-130k-v2.csv (Links to an external site.)Links to an external site.
